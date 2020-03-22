@@ -4,8 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << 154 << endl;
-    cout << 3.1416987 << endl;
-    cout << true << endl;
+    int mes = 03;
+    cout << mes;
     return 0;
 }
